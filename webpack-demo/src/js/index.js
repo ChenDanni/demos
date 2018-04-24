@@ -5,6 +5,7 @@ import _ from 'lodash';
 import '../css/style.css';
 import Img from '../img/img1.jpg'
 import printMe from './print.js'
+angular = require('angular');
 
 function component() {
     var element = document.createElement('div');
